@@ -9,6 +9,7 @@ This project was built as part of the Master of Management program at the Haskay
 🌟 Live Demo
 
 Try the prototype: http://screenlist.replit.app
+
 Watch our demo video: https://youtu.be/XCShkx14DDQ
 
 ⸻
@@ -42,7 +43,7 @@ Coming Soon:
 🛠 Tools & Technologies
 
 Development & No-Code Tools:
-Replit, Airtable, Zapier, Figma
+Replit
 
 APIs:
 The Movie Database (TMDB)
@@ -66,7 +67,9 @@ AI played a critical role from day one. We used it to:
 Working with AI was an exercise in creativity, precision, and constant improvement.
 
 ⸻
+
 Team
 
 This project was created by Master of Management students at the Haskayne School of Business, University of Calgary, as a final project for ENTI 674.
+
 Team Members: Anmol Nijjar, Gabriel Su, Temmy Adebisi, Manroz Sohal 
